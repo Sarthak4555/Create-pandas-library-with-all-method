@@ -1,4 +1,4 @@
-# SimpleDataFrame: A Minimalist DataFrame Implementation in Python
+# SimpleDataFrame: 
 
 # Description:
 This project introduces a lightweight implementation of a DataFrame-like structure, inspired by Pandas. The SimpleDataFrame class provides basic functionality for handling and manipulating tabular data in Python. It’s designed for simplicity and clarity, making it a great learning tool for understanding the core concepts behind DataFrame operations.
